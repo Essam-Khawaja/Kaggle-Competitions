@@ -11,6 +11,7 @@ Each project represents a real-world data science challenge, complete with noteb
 |----------------|---------------|---------------------|---------|
 | Titanic: ML from Disaster | [Kaggle-Titanic](https://github.com/Essam-Khawaja/Kaggle-Competitions/tree/main/Titanic) | EDA, Logistic Regression, Grid Search | ✅ Completed |
 | Bank Subscription: Probability Prediction | [Kaggle-Playground-S5-E8](https://github.com/Essam-Khawaja/Kaggle-Competitions/tree/main/Playground%20Series%20S5%20E8) | EDA, Ensemble Methods, CatBoost | ✅ Completed |
+| Housing Prices | [Kaggle-Housing-Prices](https://github.com/Essam-Khawaja/Kaggle-Competitions/tree/main/Playground%20Series%20S5%20E8) | ------ | 🔨 In Progress |
 
 ---
 
